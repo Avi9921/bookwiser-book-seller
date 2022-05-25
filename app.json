@@ -1,0 +1,8 @@
+{
+    "name":"acp-bookwiser-ui",
+    "buildpacks":[
+        {
+            "url":"heroku/nodejs"
+        }
+    ]
+}
